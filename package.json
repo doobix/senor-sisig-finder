@@ -1,0 +1,25 @@
+{
+  "name": "senor-sisig-finder",
+  "version": "1.0.0",
+  "description": "see where senor sisig is today",
+  "main": "senor-sisig-finder.js",
+  "scripts": {
+    "start": "node senor-sisig-finder.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doobix/senor-sisig-finder.git"
+  },
+  "author": "doobix",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doobix/senor-sisig-finder/issues"
+  },
+  "homepage": "https://github.com/doobix/senor-sisig-finder#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "npm": "^5.7.1",
+    "request": "^2.83.0"
+  }
+}
